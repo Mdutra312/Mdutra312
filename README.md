@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-
-<h1> ALguma coisa está aq</h1>
+<h1> Hey There! I'm a Full Stack Developer! 👋</h1>
 - 🔭 I’m currently working on some projects...
 - 🌱 I’m currently learning React Native, GitHub, Triggers in MySQL...
 - 🤔 I’m looking for help with Google, StackOverflow, ChatGPT...
